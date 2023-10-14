@@ -1,2 +1,1 @@
-# school-management
-for school
+# sarthak-vidhya-mandir

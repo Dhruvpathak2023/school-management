@@ -1,0 +1,18 @@
+module.exports = {
+  error: 'Something went wrong.',
+  success: '## fetched successfully.',
+  successfully: '## successfully.',
+  add_success: '## added successfully.',
+  update_success: '## updated successfully.',
+  del_success: '## deleted successfully.',
+  already_exist: '## already exists.',
+  not_exist: '## does not exist.',
+  not_found: '## not found',
+  err_unauthorized: 'Authentication failed. Please login again!',
+  succ_logout: 'You have successfully logged out!',
+  succ_login: 'Welcome Back! You have logged in successfully.',
+  auth_failed: 'Please enter a valid credentials.', 
+  access_denied: 'You don\'t have permission',
+  read_access_denied: 'You don\'t have read permission for ##',
+  write_access_denied: 'You don\'t have write permission for ##',
+}

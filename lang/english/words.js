@@ -1,0 +1,23 @@
+module.exports = {
+  username: 'Username',
+  mobileNumber: 'Mobile number',
+  email: 'Email',
+  permission: 'Permission',
+  permissions: 'Permissions',
+  password: 'Password',
+  subAdmin: 'Sub Admin',
+  admin: 'Admin',
+  student: 'Student',
+  students: 'Students',
+  teacher: 'Teacher',
+  teachers: 'Teachers',
+  Attendance: 'Attendance',
+  class: 'Class',
+  role: 'Role',
+  roles: 'Roles',
+  classes: 'Classes',
+  attedancRecords: 'Attendance Records',
+  homework: 'Homework',
+  comments: 'Comments',
+  notice: 'Notice'
+}
